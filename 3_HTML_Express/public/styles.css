@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+#miBoton {
+    margin-top: 20px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #4f8cff 0%, #38e8ff 100%);
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    transition: background 0.3s, transform 0.2s;
+}
+#miBoton:hover {
+    background: linear-gradient(90deg, #38e8ff 0%, #4f8cff 100%);
+    transform: translateY(-2px) scale(1.03);
+}

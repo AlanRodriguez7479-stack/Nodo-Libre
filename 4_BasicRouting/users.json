@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nombreCompleto": "ejemplo",
+    "fechaNacimiento": "0006-06-06",
+    "edad": "66",
+    "sexo": "hombre",
+    "lugarNacimiento": "jalisco",
+    "nacionalidad": "mexicana",
+    "direccion": "ejemplo",
+    "telefono": "54754",
+    "correo": "ejemplo@hfd.com",
+    "estadoCivil": "ejemplo"
+  },
+  {
+    "id": 2,
+    "nombreCompleto": "ejemplo",
+    "fechaNacimiento": "0342-02-22",
+    "edad": "324",
+    "sexo": "ejemplo",
+    "lugarNacimiento": "ejemplo",
+    "nacionalidad": "ejemplo",
+    "direccion": "ejemplo",
+    "telefono": "3242",
+    "correo": "ejemplo@jah.com",
+    "estadoCivil": "ejemplo"
+  }
+]

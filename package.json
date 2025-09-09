@@ -1,0 +1,15 @@
+{
+  "name": "NL",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene ejemplos prácticos de Node.js, diseñados para un curso rápido de introducción. Los ejemplos cubren conceptos básicos y el uso de WebSockets con Node y EJS.",
+  "main": "0_Saludo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
